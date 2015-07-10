@@ -62,3 +62,10 @@
 - []()
 
 ##17.
+
+#18.如何查看各个浏览器的 user agent stylesheet ？
+ Firefox (Gecko):[http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css](http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css)
+
+Chrome/Safari (WebKit):[http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css)
+
+Internet Explorer (Trident), all versions: [http://www.iecss.com/](http://www.iecss.com/)
